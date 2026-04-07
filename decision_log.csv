@@ -1,0 +1,21 @@
+decision_for_date,rationale,Search_new_budget,Social_new_budget,Display_new_budget
+3/2/2025,"Search: target=160.75, applied=120.00, score=0.2482; Social: target=90.50, applied=90.50, score=0.1397; Display: target=48.75, applied=80.00, score=0.0753",125.16,93.12,81.72
+3/3/2025,"Search: target=166.25, applied=150.19, score=0.2555; Social: target=91.26, applied=91.26, score=0.1402; Display: target=42.49, applied=65.38, score=0.0653",145.34,89.57,65.09
+3/4/2025,"Search: target=164.41, applied=164.41, score=0.2641; Social: target=90.74, applied=90.74, score=0.1457; Display: target=44.85, applied=60.00, score=0.0720",152.71,87.29,60
+3/5/2025,"Search: target=165.80, applied=165.80, score=0.2920; Social: target=91.36, applied=91.36, score=0.1609; Display: target=42.84, applied=60.00, score=0.0754",152.56,87.44,60
+3/6/2025,"Search: target=161.55, applied=161.55, score=0.2887; Social: target=92.57, applied=92.57, score=0.1654; Display: target=45.88, applied=60.00, score=0.0820",150.86,89.14,60
+3/7/2025,"Search: target=160.35, applied=160.35, score=0.3000; Social: target=97.30, applied=97.30, score=0.1820; Display: target=42.36, applied=60.00, score=0.0792",147.49,92.51,60
+3/8/2025,"Search: target=155.30, applied=155.30, score=0.2968; Social: target=101.32, applied=101.32, score=0.1937; Display: target=43.38, applied=60.00, score=0.0829",143.7,96.3,60
+3/9/2025,"Search: target=155.90, applied=155.90, score=0.2970; Social: target=100.77, applied=100.77, score=0.1920; Display: target=43.33, applied=60.00, score=0.0826",144.2,95.8,60
+3/10/2025,"Search: target=158.88, applied=158.88, score=0.2798; Social: target=99.11, applied=99.11, score=0.1745; Display: target=42.01, applied=60.00, score=0.0740",145.99,94.01,60
+3/11/2025,"Search: target=167.41, applied=167.41, score=0.2801; Social: target=97.13, applied=97.13, score=0.1625; Display: target=35.46, applied=60.00, score=0.0593",149.17,90.83,60
+3/12/2025,"Search: target=167.24, applied=167.24, score=0.2785; Social: target=94.26, applied=94.26, score=0.1569; Display: target=38.50, applied=60.00, score=0.0641",150.95,89.05,60
+3/13/2025,"Search: target=166.24, applied=166.24, score=0.2877; Social: target=88.73, applied=88.73, score=0.1536; Display: target=45.03, applied=60.00, score=0.0779",154.46,85.54,60
+3/14/2025,"Search: target=163.50, applied=163.50, score=0.2673; Social: target=88.35, applied=88.35, score=0.1444; Display: target=48.16, applied=60.00, score=0.0787",154.2,85.8,60
+3/15/2025,"Search: target=156.81, applied=156.81, score=0.2572; Social: target=98.97, applied=98.97, score=0.1624; Display: target=44.22, applied=60.00, score=0.0725",145.56,94.44,60
+3/16/2025,"Search: target=154.34, applied=154.34, score=0.2379; Social: target=104.43, applied=104.43, score=0.1610; Display: target=41.23, applied=60.00, score=0.0636",141.58,98.42,60
+3/17/2025,"Search: target=151.53, applied=151.53, score=0.2275; Social: target=102.25, applied=102.25, score=0.1535; Display: target=46.21, applied=60.00, score=0.0694",142.1,97.9,60
+3/18/2025,"Search: target=155.42, applied=155.42, score=0.2302; Social: target=99.51, applied=99.51, score=0.1474; Display: target=45.06, applied=60.00, score=0.0667",144.86,95.14,60
+3/19/2025,"Search: target=151.50, applied=151.50, score=0.2303; Social: target=101.87, applied=101.87, score=0.1549; Display: target=46.63, applied=60.00, score=0.0709",142.32,97.68,60
+3/20/2025,"Search: target=151.96, applied=151.96, score=0.2475; Social: target=108.27, applied=108.27, score=0.1763; Display: target=39.77, applied=60.00, score=0.0648",138.7,101.3,60
+3/21/2025,"Search: target=149.35, applied=149.35, score=0.2558; Social: target=110.41, applied=110.41, score=0.1891; Display: target=40.24, applied=60.00, score=0.0689",136.71,103.29,60
