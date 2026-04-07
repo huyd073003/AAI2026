@@ -49,15 +49,17 @@ Total cost includes:
 - holding cost
 - stockout cost
 
+## Outputs
+The code produces:
+- `daily_agent_log.csv` — daily agent decisions and rationale
+- `evaluation_comparison.csv` — comparison between agent and baseline
+
 ## Files in This Repo
-- `inventory_replenishment_agent.ipynb` or `inventory_replenishment_agent.py` — main notebook/code
+- `inventory_replenishment_agent_colab.ipynb` — main notebook
 - `sales.csv` — sales data
 - `inventory.csv` — starting stock
 - `params.csv` — SKU parameters
 - `daily_agent_log.csv` — daily agent decisions
-- `daily_baseline_log.csv` — daily baseline output
-- `agent_summary.csv` — agent results summary
-- `baseline_summary.csv` — baseline summary
 - `evaluation_comparison.csv` — side-by-side performance comparison
 - `design_doc.docx` — short design document
 - `scaling_note.docx` — short scaling note
